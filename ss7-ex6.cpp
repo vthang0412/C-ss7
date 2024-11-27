@@ -13,8 +13,7 @@ int main() {
 	}else{
 		a[i] += 3;
 		printf ("So %d la so chan nen tang 3 don vi :%d\n",a[i]-3,a[i]);
-	}
-        
+	}        
 }       
         return 0;
 }
